@@ -1,0 +1,9 @@
+# Project Information
+site_name: 'Bob’s Site'
+site_description: 'An app about Bob'
+site_author: 'Bob Smith'
+site_url: 'https://github.com/Snickdx/pwadocs'
+# Repository
+repo_name: 'snickdx/pwadocs'
+repo_url: 'https://github.com/Snickdx/pwadocs'
+theme: material
